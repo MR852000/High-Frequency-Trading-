@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+reactpy
+pydantic
+websockets
+psycopg2-binary
+redis
+python-jose
+python-multipart
+
